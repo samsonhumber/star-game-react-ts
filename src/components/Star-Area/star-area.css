@@ -1,0 +1,10 @@
+.game-box {
+    height: 200px;
+    width: 200px;
+    border: 3px solid gray;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    align-content: space-around;
+}
